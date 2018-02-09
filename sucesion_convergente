@@ -1,0 +1,4 @@
+// Sucesión de convergente con el coseno:
+// Algortimo:
+// x_i+1=cos(x_i)
+// abs(x_n+1 - x_n)<delta
